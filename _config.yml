@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: LucentVerse
+description: "LucentVerse is a sleek, circuit-themed Jekyll theme perfect for blogs and project portfolios."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
